@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am PhD candidate at [QuTech][https://qutech.nl/] at [Delft University of Technology][https://www.tudelft.nl/].
+I am PhD candidate at [QuTech](https://qutech.nl/) at [Delft University of Technology](https://www.tudelft.nl/).
 I expect to graduate in November of 2023.
